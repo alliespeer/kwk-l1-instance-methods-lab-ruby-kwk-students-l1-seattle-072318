@@ -1,7 +1,7 @@
 # dog.rb
 
 
-class Dogs 
+class Dog 
 
  def bark 
 
